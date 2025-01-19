@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaysoKal
-- 👀 I’m interested in becoming a network security Admin
+- 👀 I’m interested in becoming a network/system security Admin
 - 🌱 I’m currently learning Python, PowerShell, and Bash for coding, scripting, and automation.
 - 📫 How to reach me: b.kkelly22@outlook.com
 
