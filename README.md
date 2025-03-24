@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaysoKal
 - 👀 I’m interested in becoming a network/system security Engineer
-- 🌱 I’m currently learning Python, bash, scripting, and automation.
+- 🌱 I’m currently learning Python, powershell, Sql, Bash scripting, and automation.
 - 📫 How to reach me: b.kkelly22@outlook.com
 
 
